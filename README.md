@@ -1,5 +1,7 @@
 # Intelligent-Bots-in-Azure
 
+Requirements- `Microsoft Azure subscription`,`Python Knowledge`
+
 ## STEP 1
   
 ### Create an Azure Machine Learning workspace
